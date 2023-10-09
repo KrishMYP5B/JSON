@@ -1,0 +1,29 @@
+{
+  "locations": [
+    {
+      "name": "R City Mall",
+      "latitude": 19.0996,
+      "longitude": 72.9166
+    },
+    {
+      "name": "Khau Gali",
+      "latitude": 19.0804,
+      "longitude": 72.9043
+    },
+    {
+        "name": "Achija",
+        "latitude": 19.0810,
+        "longitude": 72.9043
+      },
+    {
+      "name": "NESISM",
+      "latitude": 19.1799,
+      "longitude": 72.9395
+    },
+    {
+        "name": "Mad over Donuts",
+        "latitude": 19.1763,
+        "longitude": 72.9517
+    },
+  ]
+}
